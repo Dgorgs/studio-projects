@@ -1,10 +1,10 @@
 ---
 
-title: A Very Cool Project
+title: This is my project about sharks
 layout: project
 
 ---
 
-# This is my project about something
+# Deadly ocean
 
-![](cats-master-header.png)
+![](layout_shark.png)

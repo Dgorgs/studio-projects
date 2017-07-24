@@ -1,0 +1,3 @@
+According to a recently published study, the population of great white sharks off the U.S. Atlantic coast is growing. Maybe you've already heard about this—it's been in the news a lot this summer.
+Today we have two NOAA biologists on the line, including the lead author of that study, to talk with us about what drove the precipitous decline in white sharks a few decades ago, and what exactly is behind their recovery.
+The lead author of that study, Tobey Curtis, is a shark scientist with NOAA's Greater Atlantic Regional Fisheries Office. 
