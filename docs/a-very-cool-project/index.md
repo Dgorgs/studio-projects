@@ -7,4 +7,4 @@ layout: project
 
 # Deadly ocean
 
-![](layout_shark.png)
+![](Layout_shark.png)
