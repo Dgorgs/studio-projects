@@ -4,10 +4,11 @@ layout: default
 
 ---
 
-# Hi, I'm YOUR NAME HERE
+# Datastudio
+## Daniela Gorgs | Lede Program 2017
 
-This is my site of projects for the [Lede Program](http://ledeprogram.com)
 
-* [Project 1]({{ site.url }}/a-very-cool-project): Lorem ipsum
+
+* [Data in the water]({{ site.url }}/sharks_part1): Shark attacks visualized
 * [Project 2]({{ site.url }}/a-very-cool-project): Lorem ipsum
 * [Project 3]({{ site.url }}/a-very-cool-project): Lorem ipsum
