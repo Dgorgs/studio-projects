@@ -7,4 +7,4 @@ layout: project
 
 # Shark attacks
 
-![](Layout_shark_neu.png)
+![](layout_shark_neu.png)
