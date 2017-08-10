@@ -7,4 +7,4 @@ layout: project
 
 
 
-![](shark_kopie1.png)
+![](sharks_worldwide.png)
